@@ -127,7 +127,7 @@ Repository: LibraryProjectTrieste
 - **B2B platforms and SaaS products**, especially systems focused on workflow optimization and automation  
 - **Mobile applications and casual/hyper-casual games**, where fast iteration and feedback loops matter  
 - **Product strategy and problem-solving**, more than visual or aesthetic design  
-- Prefer learning **engineering and delivery frameworks** (React, React Native, Flutter, Unity, Xcode) over design tools (Figma, Photoshop), with a focus on building functional, usable, and outcome-driven products  
+- Prefer learning **engineering and delivery frameworks** (React, React Native, Flutter, Unity, Xcode) over design tools (Figma, Photoshop etc.), with a focus on building functional, usable, and outcome-driven products  
 - Interested in turning abstract problems into working systems that solve real needs rather than optimizing for purely visual presentation
 
 ---
