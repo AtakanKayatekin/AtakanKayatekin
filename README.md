@@ -1,48 +1,69 @@
-# JavaScript • SQL • Java — Learning Portfolio
+# JavaScript • Databases • C# & Unity • Java — Learning Portfolio
 
-This repository reflects my learning-focused journey in software development. I am not aiming to present myself as an expert or even a junior-level professional yet — instead, I describe myself as a motivated learner who understands core concepts, knows where to look, how to research, and how to improve through structured practice and critical thinking.
+This repository reflects my transition from product and business development into hands-on software development. After years of working as a founder and manager — especially in product strategy and system design — I decided to deepen my technical skills and understand software from the inside out.
 
-I actively use AI tools during learning, but not for copy-paste solutions. I analyze responses, verify correctness, explore edge cases, and focus on understanding underlying concepts rather than memorizing syntax.
+I do not present myself as a junior developer yet. I consider myself a motivated learner who understands core concepts, knows how to research effectively, and approaches problems analytically. I actively use AI tools during learning, but never as copy-paste solutions: I validate outputs, analyze edge cases, and focus on conceptual understanding rather than surface-level syntax.
+
+🔗 LinkedIn: https://www.linkedin.com/in/atakankayatekin/
+
+> Note: Most of my public GitHub repositories currently focus on Java because these projects were developed recently within the ENAIP training context and are shareable. Due to sudden country transitions, I no longer have access to several earlier projects built in other environments and languages.
 
 ---
 
 ## JavaScript (Foundational Level)
 
-I have practical experience with **vanilla JavaScript** and browser-based programming fundamentals.
+I have hands-on experience with **vanilla JavaScript** for building interactive browser-based programs and understanding how frontend logic works under the hood.
 
 ### What I currently work with:
 - Variables, data types, scope (`var`, `let`, `const`)
-- Control structures (conditions, loops)
+- Control flow (conditions, loops)
 - Functions (parameters, return values, arrow functions)
 - Arrays, strings, objects, and built-in methods
 - DOM selection, manipulation, and element creation
 - Event handling (mouse, keyboard, input events)
-- Basic state persistence using `localStorage` and `sessionStorage`
-- Introductory object-oriented concepts (classes, constructors, inheritance)
-- Asynchronous programming fundamentals (callbacks, promises, `fetch`, `async/await`)
+- Basic client-side persistence (`localStorage`, `sessionStorage`)
+- Introductory OOP concepts (classes, constructors, inheritance)
+- Asynchronous fundamentals (callbacks, promises, `fetch`, `async/await`)
 - Debugging using browser developer tools and console logs
 
 ### Learning focus:
-- Understanding how browser-based programs work internally
-- Writing readable, structured, and testable code
-- Building small interactive applications to reinforce concepts
-- Developing the habit of researching documentation and verifying behavior experimentally
+- Understanding how browser programs actually execute
+- Writing readable and structured code
+- Researching documentation and validating assumptions experimentally
+- Building small interactive projects to reinforce concepts
 
 ---
 
-## SQL & HSQLDB (Introductory Level)
+## Databases & SQL (HSQLDB — Introductory Level)
 
-I have foundational experience with **relational databases** using **HSQLDB**, mainly through hands-on experimentation in its native interface.
+I have foundational experience with **relational databases** using **HSQLDB**, mainly through direct experimentation in its native interface.
 
 ### What I can currently do:
 - Create and modify tables (`CREATE TABLE`, `DROP TABLE`)
-- Insert, update, delete, and query records (`INSERT`, `UPDATE`, `DELETE`, `SELECT`)
-- Understand basic relational structures and table schemas
+- Insert, update, delete, and query data (`INSERT`, `UPDATE`, `DELETE`, `SELECT`)
+- Understand table schemas, basic constraints, and relational structure
 
 ### Scope:
-- Worked directly in the HSQLDB console/interface
-- Have not yet integrated databases into live application code
+- Worked directly inside the HSQLDB console/interface
+- Have not yet connected databases to live application code
 - Focused on understanding how structured data storage works conceptually and practically
+
+---
+
+## C# & Unity (Foundational / Exploratory Level)
+
+I have hands-on exposure to **C# and Unity**, where I built several small **hyper-casual game prototypes** for learning purposes.
+
+### What I practiced:
+- C# syntax, variables, conditionals, loops, and methods
+- Unity’s component-based architecture (`GameObject`, `MonoBehaviour`)
+- Basic player movement, collisions, scoring logic, and scene flow
+- Understanding how game loops, events, and state transitions work
+
+### Scope:
+- Projects were experimental and not published
+- Focus was on understanding programming logic through real-time systems
+- No production or commercial deployment experience
 
 ---
 
@@ -73,6 +94,7 @@ Repository: LibraryProjectTrieste
 
 - JavaScript (ES6+, DOM, Browser APIs)
 - SQL (HSQLDB — introductory level)
+- C# (Unity Engine — foundational level)
 - Java SE
 - Console-based I/O (Scanner)
 - Object-oriented programming fundamentals
@@ -92,13 +114,23 @@ Repository: LibraryProjectTrieste
 
 ## Goals
 
-- Transition from console and browser-based exercises to real-world applications
-- Connect Java programs to relational databases via JDBC
-- Learn modern frontend frameworks and backend APIs
-- Improve software design, testing, and architectural skills
-- Build reliable, maintainable systems step by step
+- Work on real-world projects rather than isolated exercises
+- Gain experience building end-to-end systems with real users and constraints
+- Learn how to design, build, and iterate on production-oriented software
+- Improve architectural thinking, testing practices, and long-term maintainability
+- Grow through internships, mentorship, and collaborative development environments
+
+---
+
+## Interests
+
+- **B2B platforms and SaaS products**, especially systems focused on workflow optimization and automation  
+- **Mobile applications and casual/hyper-casual games**, where fast iteration and feedback loops matter  
+- **Product strategy and problem-solving**, more than visual or aesthetic design  
+- Prefer learning **engineering and delivery frameworks** (React, React Native, Flutter, Unity, Xcode) over design tools (Figma, Photoshop), with a focus on building functional, usable, and outcome-driven products  
+- Interested in turning abstract problems into working systems that solve real needs rather than optimizing for purely visual presentation
 
 ---
 
 **Author**  
-Atakan — A motivated learner focused on building strong software foundations through structured practice, curiosity, and critical thinking.
+Atakan — A motivated learner transitioning from product & business development into software engineering through structured practice, curiosity, and critical thinking.
