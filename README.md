@@ -2,7 +2,7 @@
 
 This repository reflects my transition from product and business development into hands-on software development. After years of working as a founder and manager — especially in product strategy and system design — I decided to deepen my technical skills and understand software from the inside out.
 
-I do not present myself as a junior developer yet. I consider myself a motivated learner who understands core concepts, knows how to research effectively, and approaches problems analytically. I actively use AI tools during learning, but never as copy-paste solutions: I validate outputs, analyze edge cases, and focus on conceptual understanding rather than surface-level syntax.
+I do not present myself as a software developer yet. I consider myself a motivated learner who understands core concepts, knows how to research effectively, and approaches problems analytically. I actively use AI tools during learning, but never as copy-paste solutions: I validate outputs, analyze edge cases, and focus on conceptual understanding rather than surface-level syntax.
 
 🔗 LinkedIn: https://www.linkedin.com/in/atakankayatekin/
 
