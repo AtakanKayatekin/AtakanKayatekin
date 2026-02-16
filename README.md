@@ -76,17 +76,17 @@ This section showcases Java console applications developed as part of my structu
 **1️⃣ Simple Shopping Calculator — Programma Spesa**  
 Purpose: Calculate total cost of shopping items via console input.  
 Concepts: Scanner input, arithmetic operations, conditional logic, basic validation.  
-Repository: ShoppingProject  
+Repository: ShoppingProject (https://github.com/AtakanKayatekin/ShoppingProject.git)
 
 **2️⃣ Java Console TV Simulator — Progetto Televisore**  
 Purpose: Simulate TV behavior (on/off, channels, volume, brightness) using internal state tracking.  
 Concepts: Object-oriented programming, encapsulation, menu-driven interaction.  
-Repository: java-tv-simulator  
+Repository: java-tv-simulator (https://github.com/AtakanKayatekin/java-tv-simulator.git)
 
 **3️⃣ Trieste Library Project — Sistema Biblioteca**  
 Purpose: Manage a small library system (view, search, add, delete, update books).  
 Concepts: OOP, `ArrayList` usage, console input handling, modular structure.  
-Repository: LibraryProjectTrieste  
+Repository: LibraryProjectTrieste (https://github.com/AtakanKayatekin/LibraryProjectTrieste.git)
 
 ---
 
