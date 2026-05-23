@@ -5,7 +5,7 @@ I am a **Full-Stack Developer** with a background in product strategy and busine
 After years of leading product visions as a founder, I transitioned into hands-on engineering to build the systems I once designed. My approach combines technical precision with a deep understanding of business logic and workflow optimization.
 
 🔗 **LinkedIn:** [linkedin.com/in/atakankayatekin/](https://www.linkedin.com/in/atakankayatekin/)  
-🚀 **Live Project:** [modulopronto.it](https://modulopronto.it)
+🚀 **Live Project:** [cosmobase.app](https://cosmobase.app)
 
 ---
 
