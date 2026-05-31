@@ -1,63 +1,61 @@
-# Atakan Kayatekin | Full-Stack Developer
+# Atakan Kayatekin
 
-I am a **Full-Stack Developer** with a background in product strategy and business development. I specialize in building functional, scalable, and user-centric web applications using the **Laravel & Vue.js** ecosystem.
+**Full-Stack Developer & Founder**
 
-After years of leading product visions as a founder, I transitioned into hands-on engineering to build the systems I once designed. My approach combines technical precision with a deep understanding of business logic and workflow optimization.
+I imagine, build, and optimize products end to end.
 
-🔗 **LinkedIn:** [linkedin.com/in/atakankayatekin/](https://www.linkedin.com/in/atakankayatekin/)  
-🚀 **Live Project:** [cosmobase.app](https://cosmobase.app)
+Database to deployment, backend logic to the pixels users touch. Years of leading products as a founder taught me not only to write code, but to solve real problems within the dynamics of real life.
 
----
-
-## 🛠 Tech Stack
-
-### **Backend & Architecture**
-* **Core:** PHP 8+, Laravel Framework
-* **Database:** MySQL (Schema design, Query optimization, Eloquent ORM)
-* **APIs:** RESTful API development & Third-party integrations
-* **Tools:** Composer, Git, SSH
-
-### **Frontend & UI**
-* **Frameworks:** Vue.js (Composition API), Inertia.js
-* **Styling:** Tailwind CSS (Utility-first responsive design)
-* **Interactions:** JavaScript (ES6+), DOM Manipulation, Async/Await
+🔗 [LinkedIn](https://linkedin.com/in/atakankayatekin/)
 
 ---
 
-## Featured Project: Modulo Pronto
+## What I Do
 
-I am currently developing **[Modulo Pronto](https://modulopronto.it)**, a web-based platform designed to streamline document workflows and form management.
+- **Architect & build full products solo** — schema design, API layer, reactive frontend, auth, billing, and AI features as one coherent system.
+- **Own the pipeline** — from local development to production: Git workflows, server setup, automated deploys, and live ops.
+- **Bridge product & engineering** — translate business requirements into clean, scalable systems, because I've worked both sides.
+- **Ship in the real world** — currently helping public and private organizations integrate AI into their infrastructure, and building **[cosmobase.app](https://cosmobase.app)**.
 
-* **The Challenge:** Transforming complex administrative processes into a simple, digital-first user experience.
-* **The Tech:** Built with a **Laravel** backend for robust logic and **Vue.js** for a highly reactive, seamless frontend.
-* **My Role:** Full-stack architecture, database modeling in **MySQL**, and UI/UX implementation focused on functional efficiency.
+## The Tool Box
+
+**Core Backend & Architecture**
+```
+|- Node.js
+|- Laravel
+```
+
+**Frontend**
+```
+|- Next.js
+|- Vue.js
+```
+
+**Data & AI Automation**
+```
+|- PostgreSQL, MySQL
+|- LLM pipelines & structured data intelligence
+```
+
+**Cloud & DevOps**
+```
+|- Infrastructure: Linux (Ubuntu) hardening, Reverse Proxy/SSL & Cloudflare Security
+|- CI/CD: GitHub Actions & automated workflows on prod
+```
+
+**~ Discovery Box**
+```
+|- Unreal Engine
+|- Unity
+|- React Native
+```
+
+## How I Work
+
+```
+|- Product-first — code is a means to ship
+|- Clean & scalable over quick fixes
+|- AI-accelerated, but I own the edge cases
+```
 
 ---
-
-## Development Background
-
-While my current focus is the **VILT/TALL stack**, my technical foundation is built on diverse experimentation:
-
-* **Java:** Developed structured console applications (Library systems, simulators) focused on **OOP** principles and Collections.
-* **C# & Unity:** Built hyper-casual game prototypes to master real-time logic and component-based architecture.
-* **Legacy Systems:** Experience with HSQLDB and vanilla JS for foundational data and logic handling.
-
----
-
-## Engineering Philosophy
-
-* **Product-First Engineering:** I write code to solve problems. My background allows me to bridge the gap between business requirements and technical implementation perfectly.
-* **Clean & Maintainable:** I prioritize readable code and scalable architecture over "quick fixes."
-* **Continuous Evolution:** I actively use AI tools to accelerate development, focusing on validating edge cases and architectural integrity rather than blind copy-pasting.
-
----
-
-## 📬 Let's Connect
-
-I am open to collaborations, full-stack roles, or projects where I can apply my dual expertise in product strategy and software engineering.
-
-* **LinkedIn:** [atakankayatekin](https://www.linkedin.com/in/atakankayatekin/)
-* **Website:** [modulopronto.it](https://modulopronto.it)
-
----
-*"Building the bridge between abstract business needs and robust, working systems."*
