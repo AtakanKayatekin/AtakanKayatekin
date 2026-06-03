@@ -54,7 +54,7 @@ Focused on solving real-world problems and questioning what "real-world" actuall
 |- Analytics: Google Analytics, Google Clarity
 ```
 
-**~ Discovery Box**
+**Discovery Box**
 ```
 |- Unreal Engine
 |- Unity
