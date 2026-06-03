@@ -3,19 +3,22 @@
 **Full-Stack Developer & Founder**
 
 I imagine, build, and optimize products end to end.
-
-Database to deployment, backend logic to the pixels users touch. Years of leading products as a founder taught me not only to write code, but to solve real problems within the dynamics of real life.
+Focused on solving real-world problems and questioning what "real-world" actually means.
 
 🔗 [LinkedIn](https://linkedin.com/in/atakankayatekin/)
+📍 Trieste, Italy
 
 ---
 
 ## What I Do
 
-- **Architect & build full products solo** — schema design, API layer, reactive frontend, auth, billing, and AI features as one coherent system.
-- **Own the pipeline** — from local development to production: Git workflows, server setup, automated deploys, and live ops.
-- **Bridge product & engineering** — translate business requirements into clean, scalable systems, because I've worked both sides.
-- **Ship in the real world** — currently helping public and private organizations integrate AI into their infrastructure, and building **[cosmobase.app](https://cosmobase.app)**.
+- **Design and ship full products end-to-end**: schema design, APIs, frontend, authentication, billing, and AI features as a single system.
+- **Own the entire delivery pipeline**: from local development to production—Git workflows, infrastructure setup, automated deployments, and production operations.
+- **Translate product into systems**: turn business requirements into scalable, maintainable software, bridging product thinking with engineering execution.
+- **Product thinking & execution**: UX awareness, user flows, iterative product design, and early-stage business development (validation, positioning).
+- **Monetization & business development**: pricing strategy, subscription models, and revenue architecture (ads vs SaaS).
+- **Scaling & growth**: system scalability, performance thinking, and investor-facing product readiness.
+- Currently building **[cosmobase.app](https://cosmobase.app)**.
 
 ## The Tool Box
 
@@ -39,8 +42,16 @@ Database to deployment, backend logic to the pixels users touch. Years of leadin
 
 **Cloud & DevOps**
 ```
-|- Infrastructure: Linux (Ubuntu) hardening, Reverse Proxy/SSL & Cloudflare Security
-|- CI/CD: GitHub Actions & automated workflows on prod
+|- Infrastructure: Linux (Ubuntu) hardening, Reverse Proxy/SSL, Cloudflare Security
+|- Cloud Platforms: DigitalOcean, Ploi, Cloudways
+|- CI/CD: GitHub Actions & automated production workflows
+```
+
+**Product Infrastructure**
+```
+|- Cloudflare (security, DNS, edge)
+|- Resend (transactional email)
+|- Analytics: Google Analytics, Google Clarity
 ```
 
 **~ Discovery Box**
@@ -48,14 +59,6 @@ Database to deployment, backend logic to the pixels users touch. Years of leadin
 |- Unreal Engine
 |- Unity
 |- React Native
-```
-
-## How I Work
-
-```
-|- Product-first — code is a means to ship
-|- Clean & scalable over quick fixes
-|- AI-accelerated, but I own the edge cases
 ```
 
 ---
