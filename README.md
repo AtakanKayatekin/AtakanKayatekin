@@ -18,7 +18,7 @@ Focused on solving real-world problems and questioning what "real-world" actuall
 - **Product thinking & execution**: UX awareness, user flows, iterative product design, and early-stage business development (validation, positioning).
 - **Monetization & business development**: pricing strategy, subscription models, and revenue architecture (ads vs SaaS).
 - **Scaling & growth**: system scalability, performance thinking, and investor-facing product readiness.
-- Currently building **[cosmobase.app](https://pappachat.com)** & **[cosmobase.app](https://cosmobase.app)**
+- Currently building **[pappachat.com](https://pappachat.com)** & **[cosmobase.app](https://cosmobase.app)**
 
 ## The Tool Box
 
