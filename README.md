@@ -13,12 +13,12 @@ Focused on solving real-world problems and questioning what "real-world" actuall
 ## What I Do
 
 - **Design and ship full products end-to-end**: schema design, APIs, frontend, authentication, billing, and AI features as a single system.
-- **Own the entire delivery pipeline**: from local development to production—Git workflows, infrastructure setup, automated deployments, and production operations.
+- **Own the entire delivery pipeline**: from local development to production, Git workflows, infrastructure setup, automated deployments, and production operations.
 - **Translate product into systems**: turn business requirements into scalable, maintainable software, bridging product thinking with engineering execution.
 - **Product thinking & execution**: UX awareness, user flows, iterative product design, and early-stage business development (validation, positioning).
 - **Monetization & business development**: pricing strategy, subscription models, and revenue architecture (ads vs SaaS).
 - **Scaling & growth**: system scalability, performance thinking, and investor-facing product readiness.
-- Currently building **[cosmobase.app](https://cosmobase.app)**
+- Currently building **[cosmobase.app](https://pappachat.com)** & **[cosmobase.app](https://cosmobase.app)**
 
 ## The Tool Box
 
