@@ -7,7 +7,6 @@ I build and scale AI-native systems, from core architecture all the way to produ
 <p>
   <a href="https://www.linkedin.com/in/atakankayatekin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://pappachat.com"><img src="https://img.shields.io/badge/PappaChat-182231?style=for-the-badge&logo=googlechrome&logoColor=C8A24C" alt="PappaChat"></a>
-  <a href="https://cosmobase.app"><img src="https://img.shields.io/badge/Cosmobase-182231?style=for-the-badge&logo=googlechrome&logoColor=C8A24C" alt="Cosmobase"></a>
   <img src="https://img.shields.io/badge/Trieste,%20Italy-c8a24c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
@@ -28,7 +27,6 @@ I question what "real-world" actually means, and then I build for it.
 ## What I'm Building
 
 - **[pappachat.com](https://pappachat.com)** · an identity-aware communication and operations engine for local Italian commerce. It recognizes the business, maps its people, and runs the whole customer relations lifecycle on top of LLM pipelines.
-- **[cosmobase.app](https://cosmobase.app)** · a product I am actively developing.
 
 ---
 
