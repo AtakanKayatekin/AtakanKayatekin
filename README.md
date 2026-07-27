@@ -91,11 +91,4 @@ I question what "real-world" actually means, and then I build for it.
 
 ---
 
-<p>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtakanKayatekin&show_icons=true&hide_border=true&title_color=C8A24C&icon_color=C8A24C&text_color=C3CDDA&bg_color=182231">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AtakanKayatekin&layout=compact&hide_border=true&title_color=C8A24C&text_color=C3CDDA&bg_color=182231">
-</p>
-
----
-
 <sub>Building at the intersection of product, AI and infrastructure. Always open to a good conversation about systems that solve real problems.</sub>
