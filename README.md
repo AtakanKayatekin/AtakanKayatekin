@@ -33,6 +33,21 @@ I question what "real-world" actually means, and then I build for it.
 
 ---
 
+## Where I've Delivered
+
+| | Market | Context |
+|---|---|---|
+| 🇮🇹 | **Trieste, Italy** | AI systems and full stack delivery for local commerce, retail and public-sector clients |
+| 🇪🇪 | **Tallinn, Estonia** | B2B software studio: multi-tenant core, CRM and inventory, ERP and e-commerce integrations |
+| 🇬🇧 | **London, UK** | Two-sided marketplace: identity modelling, escrow contracts, Stripe Connect with KYC |
+| 🇪🇸 | **Barcelona, Spain** | Turnkey B2B SaaS projects |
+| 🇲🇪 | **Podgorica, Montenegro** | Treasury and risk systems for financial market intermediaries, engineering team leadership |
+| 🇹🇷 | **Istanbul, Turkey** | Deal intelligence and investment analytics in real estate |
+
+Also delivered projects with teams in 🇫🇷 France and 🇳🇴 Norway (2024–2025).
+
+---
+
 ## What I Do
 
 - **Ship full products end to end.** Schema design, APIs, frontend, authentication, billing and AI features, built as a single coherent system.
