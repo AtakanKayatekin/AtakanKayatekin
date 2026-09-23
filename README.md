@@ -37,7 +37,8 @@ I question what "real-world" actually means, and then I build for it.
 
 | | Market | Context |
 |---|---|---|
-| 🇮🇹 | **Trieste, Italy** | AI systems and full stack delivery for local commerce, retail and public-sector clients |
+| 🇮🇹 | **Trieste, Italy** | Agentic AI for local commerce, and full stack and LLMOps delivery for agency clients across retail and the public sector |
+| 🇭🇷 | **Buje, Croatia** | AI systems and LLM integration into ERP workflows, delivered remotely |
 | 🇪🇪 | **Tallinn, Estonia** | B2B software studio: multi-tenant core, CRM and inventory, ERP and e-commerce integrations |
 | 🇬🇧 | **London, UK** | Two-sided marketplace: identity modelling, escrow contracts, Stripe Connect with KYC |
 | 🇪🇸 | **Barcelona, Spain** | Turnkey B2B SaaS projects |
